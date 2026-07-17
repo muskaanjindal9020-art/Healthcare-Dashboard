@@ -31,7 +31,3 @@ Tables used: patients, procedures, diagnoses, insurance, departments
 https://github.com/muskaanjindal9020-art/Healthcare-Dashboard/blob/main/Healthcare.png
 
 
-
-
-## 📬 Contact
-[Your name] | [LinkedIn URL] 
