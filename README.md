@@ -28,10 +28,10 @@ Tables used: patients, procedures, diagnoses, insurance, departments
 - Out-of-pocket costs remain roughly one-third of total billing across most diagnoses.
 
 ## 📷 Preview
-
+https://github.com/muskaanjindal9020-art/Healthcare-Dashboard/blob/main/Healthcare.png
 
 
 
 
 ## 📬 Contact
-[Your name] | [LinkedIn URL] | [Email]
+[Your name] | [LinkedIn URL] 
